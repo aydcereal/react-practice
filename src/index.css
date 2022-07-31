@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+html {
+  font-family: sans-serif;
+  background-color: rgb(44, 42, 42);
+}
+
+body {
+  margin: 0;
+}
+
+
+.userForm {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 45%;
+  margin: auto;
+}
+
+.userForm input{
+  width: 100%;
+  margin: 5px 0 5px 0;
+  padding: 5px;
+  
+}
+
+.userForm label{
+  margin: 5px 0 5px 0;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.userForm button{
+  background-color: rgb(94, 28, 156);
+  color: white;
+  margin: 5px 0 5px 0;
+  margin-top: 5px;
+  font-size: large;
+}
+
+.userCard {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 45%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+p {
+  border-style: solid;
+  border-color: gray;
+  padding: 5px;
+}
